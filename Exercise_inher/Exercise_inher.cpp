@@ -65,4 +65,10 @@ class Lingkaran : bidangDatar
 
 class Lingkaran :public bidangDatar { /*lengkapi disini*/ };class Bujursangkar :public bidangDatar { /*lengkapi disini*/ };
 
-int main() { /*lengkapi disini*/ }
+int main() 
+
+{ 
+	
+	/*lengkapi disini*/ 
+
+}
